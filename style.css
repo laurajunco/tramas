@@ -44,8 +44,7 @@ input {
 }
 
 .button:hover {
-  background-color: black;
-  color: white;
+  background-color: #6bc9d3;
 }
 
 .colcha {
@@ -62,15 +61,15 @@ input {
 }
 
 .vowel {
-  background-color: cadetblue;
+  background-color: #ffbe54;
 }
 
 .letter {
-  background-color:indianred ;
+  background-color:#6bc9d3;
 }
 
 .space {
-  background-color: lemonchiffon;
+  background-color: #231f20;
 }
 
 .new {
